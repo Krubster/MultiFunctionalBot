@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiFunctionalBot", "MultiFunctionalBot.csproj", "{A0CDEB88-5010-461D-B003-84FEC44F5E3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBot", "..\TelegramBot\TelegramBot.csproj", "{A4DDFDEA-8C6A-43AD-AFB3-43B0248736DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordBot", "DiscordBot\DiscordBot.csproj", "{78DA7AA2-BC3D-43C4-8796-1C3F8F7173FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0CDEB88-5010-461D-B003-84FEC44F5E3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0CDEB88-5010-461D-B003-84FEC44F5E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0CDEB88-5010-461D-B003-84FEC44F5E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0CDEB88-5010-461D-B003-84FEC44F5E3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4DDFDEA-8C6A-43AD-AFB3-43B0248736DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4DDFDEA-8C6A-43AD-AFB3-43B0248736DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4DDFDEA-8C6A-43AD-AFB3-43B0248736DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4DDFDEA-8C6A-43AD-AFB3-43B0248736DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78DA7AA2-BC3D-43C4-8796-1C3F8F7173FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DA7AA2-BC3D-43C4-8796-1C3F8F7173FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DA7AA2-BC3D-43C4-8796-1C3F8F7173FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DA7AA2-BC3D-43C4-8796-1C3F8F7173FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
